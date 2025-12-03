@@ -1,3 +1,3 @@
 <?php
 
-echo "This is testing php file";
+echo "This is testing php file with new text";
